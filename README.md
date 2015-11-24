@@ -3,7 +3,7 @@ A plugin for sublime text which removes the characters ":" and ":" from selected
 
 ### Usage
 
-To add new plugin in sublime, insert in plugin text from remove_colon_and_semilicon_command.py.
+To add that plugin in sublime, insert in new plugin text from remove_colon_and_semilicon_command.py.
 
 Add a keybinding like that: 	{ "keys": ["ctrl+alt+s"], "command": "remove_colon_and_semilicon" }
 
